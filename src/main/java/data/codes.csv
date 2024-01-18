@@ -1,0 +1,17 @@
+java:-:if (x > y) { }:-:A simple if statement that checks if x bigger than y
+csharp:-:if (x > y) { }:-:A simple if statement that checks if x bigger than y
+js:-:if (x > y) { }:-:A simple if statement that checks if x bigger than y
+html:-:<body></body>:-:A Body tag element
+css:-:font-size: 1rem;:-:Changes the font size to 1 rem. The tag can be px,rem,%...
+html:-:<script></script>:-:The script tag let's you add an external script or write javascript inside the quotes
+html:-:<header></header>:-:A header tag which should be used to store elements at the very top of the page
+css:-:font-color: red;:-:Gives text with no specification a color of red, can also contain #HEX values
+css:-:font-family: sans-serif;:-:Styles standalone text elements to use the font "sans-serif", if elements don't change you might have elements inside others, which needs more speciofication
+css:-:background-color: lightblue;:-:Gives the background of the elements size a color of lightblue, the background color depends on size and shape of element
+css:-:text-align: center;:-:Aligns text elements only, here it is centered in it's parent element
+css:-:* {}:-:A CSS rule that affects every html element on the page
+html:-:<link rel="stylesheet" href="mystyle.css">:-:How to reference to a CSS stylesheet in a HTML document, uses the element <link>, with rel to detect what type of document it is, while href needs a url reference to the script.
+html:-:style="color:blue;text-align:center;":-:The style attribute can be used directly inside an element to give this element css rules. Classes and Ids are a better choice to style multiple or single elements using alot less code.
+css:-:/* */:-:The symbols define a comment, that last for as many lines as the symbols cover
+html:-:<!-- -->:-:The symbols define a comment, that last for as many lines as the symbols cover
+css:-:border: 1px solid black;:-:Changes how the border is interacted with, it is in default set to 0 px and is not visible until you declare it. Here the border gets a 1px, solid black line around the entire element
